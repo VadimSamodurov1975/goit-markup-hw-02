@@ -1,0 +1,11 @@
+body {
+    font-family:'Roboto', 'Helvetica Neue', 'Verdana', sans-serif;
+    color: #434445;
+    background-color: #e5e5e5;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
