@@ -1,7 +1,7 @@
 body {
     font-family:'Roboto', 'Helvetica Neue', 'Verdana', sans-serif;
     color: #434445;
-    background-color: #e5e5e5;
+    background-color: #fff;
 }
 ul {
     list-style-type: none;
@@ -18,13 +18,88 @@ a {
     text-transform: uppercase;
     color: #2e2f42;
 }
-.web {
+.nav-logo-web {
     color: #4d5ae5;
 }
 .nav-link {
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 150%;
-        letter-spacing: 0.02em;
-        color: #2e2f42;;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;;
+}
+.contact {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    font-style: normal;
+}
+.contact-link {    
+    color: #434455;
+}
+.section1 {
+    background-color: #2e2f42;
+    text-align: center;
+}
+.section1-title1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 107%;
+    letter-spacing: 0.02em;
+    color: #fff;
+}
+.section1-button {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+.section2-title3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.section2-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    /* color: var(--slate); */
+}
+.section3 {
+    background-color: #f4f4fd;
+
+}
+.section3-block {
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+    background: #fff;
+}
+.section3-title2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.section3-title3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+.section3-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    text-align: center;
 }
